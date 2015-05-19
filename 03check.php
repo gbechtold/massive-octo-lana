@@ -1,0 +1,1 @@
+<form action = "check.php" method=""
